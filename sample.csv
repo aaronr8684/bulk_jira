@@ -1,0 +1,7 @@
+# cat bulkuser.py
+name,displayName,emailAddress,password
+test31,Test User 31,123@sample.com,test@123
+test32,Test User 32,123@sample.com,test@123
+test33,Test User 33,123@sample.com,test@123
+test34,Test User 34,123@sample.com,test@123
+test35,Test User 35,123@sample.com,test@123
